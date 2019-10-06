@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080.062" viewBox="0 0 1920 1080.062">
+  <g id="bg" transform="translate(0 0.062)">
+    <rect id="plain" width="1920" height="1080" fill="#fff"/>
+    <g id="right-design">
+      <path id="Path_6" data-name="Path 6" d="M1005.137,0s120.238,47.4,138.608,167.606-83.5,218.4-25.05,369.072,225.447,291.194,410.815,299.659,420.972-133.724,420.972-133.724V0Z" transform="translate(-89.201 -0.062)" fill="#1f1f1f" opacity="0.42"/>
+      <path id="Path_5" data-name="Path 5" d="M1005.137,0s116.35,45.247,134.126,159.982-80.8,208.461-24.24,352.283,218.157,277.948,397.53,286.028,407.358-127.641,407.358-127.641V0Z" fill="#1f1f1f"/>
+    </g>
+  </g>
+</svg>
